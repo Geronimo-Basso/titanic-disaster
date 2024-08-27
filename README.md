@@ -2,6 +2,8 @@
 
 This repository contains my solution to the Titanic Kaggle competition, where the goal is to predict the survival of passengers on the Titanic. My best result achieved a score of **0.78468** using a Logistic Regression model.
 
+https://www.kaggle.com/competitions/3136/images/header
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data](#data)
